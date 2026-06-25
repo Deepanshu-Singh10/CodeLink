@@ -24,12 +24,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0061-rotate-list](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0061-rotate-list) |
 | [0142-linked-list-cycle-ii](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0142-linked-list-cycle-ii) |
+| [0234-palindrome-linked-list](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0234-palindrome-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0061-rotate-list) |
 | [0142-linked-list-cycle-ii](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0142-linked-list-cycle-ii) |
+| [0234-palindrome-linked-list](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0234-palindrome-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0042-trapping-rain-water) |
+| [0234-palindrome-linked-list](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0234-palindrome-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -63,4 +66,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Recursion
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
