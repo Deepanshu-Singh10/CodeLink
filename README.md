@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0078-subsets) |
 | [0560-subarray-sum-equals-k](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0930-binary-subarrays-with-sum) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2402-meeting-rooms-iii](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/2402-meeting-rooms-iii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2402-meeting-rooms-iii](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/2402-meeting-rooms-iii) |
 ## Heap (Priority Queue)
 |  |
@@ -112,4 +114,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0078-subsets) |
+## Greedy
+|  |
+| ------- |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 <!---LeetCode Topics End-->
