@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0090-subsets-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0930-binary-subarrays-with-sum) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -121,10 +122,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0090-subsets-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0090-subsets-ii) |
 | [0231-power-of-two](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0231-power-of-two) |
 ## Greedy
 |  |
