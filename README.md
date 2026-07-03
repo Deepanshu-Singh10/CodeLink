@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0042-trapping-rain-water) |
+| [0094-binary-tree-inorder-traversal](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0094-binary-tree-inorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0234-palindrome-linked-list) |
 ## Monotonic Stack
 |  |
@@ -155,4 +156,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
