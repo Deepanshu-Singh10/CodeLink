@@ -10,8 +10,8 @@ class Solution {
         res.add(new ArrayList<>(temp));
          return ;
         }
-        if(target<0) return ;
         for(int i =start;i<num.length;i++){
+            if(num[i]>target) break;
           temp.add(num[i]);
           solve(res,temp,num,target-num[i],i);
           temp.remove(temp.size()-1);
