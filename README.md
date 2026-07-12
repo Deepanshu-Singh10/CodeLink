@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0142-linked-list-cycle-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0930-binary-subarrays-with-sum) |
+| [1331-rank-transform-of-an-array](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/1331-rank-transform-of-an-array) |
 | [2402-meeting-rooms-iii](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/2402-meeting-rooms-iii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0930-binary-subarrays-with-sum) |
 | [1288-remove-covered-intervals](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/1301-number-of-paths-with-max-score) |
+| [1331-rank-transform-of-an-array](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2402-meeting-rooms-iii](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/2402-meeting-rooms-iii) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1288-remove-covered-intervals](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/1288-remove-covered-intervals) |
+| [1331-rank-transform-of-an-array](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2402-meeting-rooms-iii](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/2402-meeting-rooms-iii) |
 ## Heap (Priority Queue)
