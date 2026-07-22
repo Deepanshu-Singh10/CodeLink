@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0231-power-of-two) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0231-power-of-two) |
 | [0461-hamming-distance](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0461-hamming-distance) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Greedy
 |  |
 | ------- |
