@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0090-subsets-ii) |
 | [0191-number-of-1-bits](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0231-power-of-two) |
+| [0461-hamming-distance](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0461-hamming-distance) |
 ## Greedy
 |  |
 | ------- |
