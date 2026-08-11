@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0070-climbing-stairs) |
 | [0338-counting-bits](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0338-counting-bits) |
 | [0877-stone-game](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/1140-stone-game-ii) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0231-power-of-two) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0877-stone-game) |
@@ -340,4 +342,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/1510-stone-game-iv) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
