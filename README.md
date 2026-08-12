@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0392-is-subsequence) |
 | [0877-stone-game](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0877-stone-game) |
+| [1025-divisor-game](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/1025-divisor-game) |
 | [1140-stone-game-ii](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/1301-number-of-paths-with-max-score) |
 | [1510-stone-game-iv](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/1510-stone-game-iv) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0231-power-of-two) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0877-stone-game) |
+| [1025-divisor-game](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/1025-divisor-game) |
 | [1140-stone-game-ii](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/1140-stone-game-ii) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1510-stone-game-iv](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/1510-stone-game-iv) |
@@ -330,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0877-stone-game) |
+| [1025-divisor-game](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/1025-divisor-game) |
 | [1140-stone-game-ii](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/1510-stone-game-iv) |
 ## Minimax
@@ -354,4 +357,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0070-climbing-stairs) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/1025-divisor-game) |
+## Impartial Game
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
