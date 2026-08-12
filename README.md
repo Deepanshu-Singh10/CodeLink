@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0070-climbing-stairs) |
 | [0119-pascals-triangle-ii](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0119-pascals-triangle-ii) |
 | [0338-counting-bits](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0338-counting-bits) |
+| [0392-is-subsequence](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0392-is-subsequence) |
 | [0877-stone-game](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/1301-number-of-paths-with-max-score) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0061-rotate-list) |
 | [0142-linked-list-cycle-ii](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0234-palindrome-linked-list) |
+| [0392-is-subsequence](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0392-is-subsequence) |
 ## Math
 |  |
 | ------- |
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0392-is-subsequence](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0392-is-subsequence) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/3501-maximize-active-section-with-trade-ii) |
