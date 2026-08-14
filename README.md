@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/1331-rank-transform-of-an-array) |
+| [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/1331-rank-transform-of-an-array) |
+| [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2402-meeting-rooms-iii](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/2402-meeting-rooms-iii) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
