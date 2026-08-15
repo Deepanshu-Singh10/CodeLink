@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0061-rotate-list) |
 | [0142-linked-list-cycle-ii](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0142-linked-list-cycle-ii) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0015-3sum) |
 | [0039-combination-sum](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0046-permutations) |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0015-3sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/1331-rank-transform-of-an-array) |
