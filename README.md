@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1510-stone-game-iv](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/1510-stone-game-iv) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2402-meeting-rooms-iii](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/2402-meeting-rooms-iii) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [2029-stone-game-ix](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/2029-stone-game-ix) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/3312-sorted-gcd-pair-queries) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Recursion
@@ -235,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2029-stone-game-ix](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Binary Search
 |  |
@@ -351,20 +355,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-divisor-game](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/1025-divisor-game) |
 | [1140-stone-game-ii](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/2029-stone-game-ix) |
 ## Sprague–Grundy Theorem
 |  |
 | ------- |
