@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0070-climbing-stairs) |
 | [0119-pascals-triangle-ii](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0119-pascals-triangle-ii) |
+| [0322-coin-change](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0392-is-subsequence) |
 | [0877-stone-game](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0877-stone-game) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0090-subsets-ii) |
 | [0119-pascals-triangle-ii](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0119-pascals-triangle-ii) |
+| [0322-coin-change](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0322-coin-change) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0628-maximum-product-of-three-numbers) |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0102-binary-tree-level-order-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0322-coin-change](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0322-coin-change) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -382,4 +385,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
