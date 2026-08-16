@@ -1,0 +1,22 @@
+class Solution {
+    public boolean stoneGameIX(int[] stones) {
+     int count0=0; 
+     int count1=0; 
+     int count2=0; 
+     for(int stone:stones){
+        if(stone%3==1){
+           count1++;
+        }
+        else if(stone%3==2){
+            count2++;
+        }
+        else{
+            count0++;
+        }
+     }
+        if(count0%2==0){
+            return count1>0&&count2>0;
+        }
+        return Math.abs(count1-count2)>2;
+    }
+}
