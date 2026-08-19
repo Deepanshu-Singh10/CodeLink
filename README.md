@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0930-binary-subarrays-with-sum) |
 | [1331-rank-transform-of-an-array](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/1331-rank-transform-of-an-array) |
+| [1386-cinema-seat-allocation](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/1386-cinema-seat-allocation) |
 | [2402-meeting-rooms-iii](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/2402-meeting-rooms-iii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/1331-rank-transform-of-an-array) |
+| [1386-cinema-seat-allocation](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/1386-cinema-seat-allocation) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0338-counting-bits) |
 | [0461-hamming-distance](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0461-hamming-distance) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1386-cinema-seat-allocation](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/1386-cinema-seat-allocation) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -239,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1386-cinema-seat-allocation](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/1386-cinema-seat-allocation) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2029-stone-game-ix](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
