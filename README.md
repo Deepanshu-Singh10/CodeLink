@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/1140-stone-game-ii) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1510-stone-game-iv](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/1510-stone-game-iv) |
+| [1927-sum-game](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/1386-cinema-seat-allocation) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1927-sum-game](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Binary Search
@@ -332,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0392-is-subsequence](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0392-is-subsequence) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1927-sum-game](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -367,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-divisor-game](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/1025-divisor-game) |
 | [1140-stone-game-ii](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/1510-stone-game-iv) |
+| [1927-sum-game](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
