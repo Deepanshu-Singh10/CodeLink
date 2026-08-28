@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0234-palindrome-linked-list) |
 | [0392-is-subsequence](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0392-is-subsequence) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Math
 |  |
 | ------- |
@@ -342,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Number Theory
 |  |
@@ -361,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Counting Sort
 |  |
 | ------- |
