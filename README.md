@@ -322,12 +322,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0102-binary-tree-level-order-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0111-minimum-depth-of-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0094-binary-tree-inorder-traversal) |
 | [0101-symmetric-tree](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0101-symmetric-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0111-minimum-depth-of-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/3310-remove-methods-from-project) |
@@ -338,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0102-binary-tree-level-order-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0111-minimum-depth-of-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Topological Sort
 |  |
 | ------- |
