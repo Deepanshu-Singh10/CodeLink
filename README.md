@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0056-merge-intervals) |
 | [0078-subsets](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0090-subsets-ii) |
 | [0119-pascals-triangle-ii](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0119-pascals-triangle-ii) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0056-merge-intervals) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/1331-rank-transform-of-an-array) |
@@ -476,4 +478,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0836-rectangle-overlap) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
