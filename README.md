@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0643-maximum-average-subarray-i) |
 | [0835-image-overlap](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0835-image-overlap) |
+| [0875-koko-eating-bananas](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0877-stone-game) |
 | [0930-binary-subarrays-with-sum](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0930-binary-subarrays-with-sum) |
 | [1140-stone-game-ii](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/1140-stone-game-ii) |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0004-median-of-two-sorted-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0540-single-element-in-a-sorted-array) |
+| [0875-koko-eating-bananas](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0875-koko-eating-bananas) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
