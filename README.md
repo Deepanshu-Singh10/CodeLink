@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0877-stone-game) |
 | [0930-binary-subarrays-with-sum](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0930-binary-subarrays-with-sum) |
+| [0994-rotting-oranges](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0994-rotting-oranges) |
 | [1140-stone-game-ii](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/1288-remove-covered-intervals) |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0322-coin-change) |
+| [0994-rotting-oranges](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0994-rotting-oranges) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -330,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0200-number-of-islands) |
 | [0835-image-overlap](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0835-image-overlap) |
+| [0994-rotting-oranges](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/2812-find-the-safest-path-in-a-grid) |
