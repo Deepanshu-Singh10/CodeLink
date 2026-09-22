@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0023-merge-k-sorted-lists) |
 | [0061-rotate-list](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0061-rotate-list) |
 | [0142-linked-list-cycle-ii](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0146-lru-cache) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0053-maximum-subarray) |
 | [0191-number-of-1-bits](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0191-number-of-1-bits) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0023-merge-k-sorted-lists) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Counting
@@ -241,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0023-merge-k-sorted-lists) |
 | [2402-meeting-rooms-iii](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/2402-meeting-rooms-iii) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -502,4 +506,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0056-merge-intervals) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
