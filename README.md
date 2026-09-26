@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0146-lru-cache) |
 | [0560-subarray-sum-equals-k](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0560-subarray-sum-equals-k) |
+| [0767-reorganize-string](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0767-reorganize-string) |
 | [0904-fruit-into-baskets](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0930-binary-subarrays-with-sum) |
 | [1331-rank-transform-of-an-array](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/1331-rank-transform-of-an-array) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0767-reorganize-string](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0767-reorganize-string) |
 | [2029-stone-game-ix](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/2029-stone-game-ix) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/3312-sorted-gcd-pair-queries) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0056-merge-intervals) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0628-maximum-product-of-three-numbers) |
+| [0767-reorganize-string](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0767-reorganize-string) |
 | [1288-remove-covered-intervals](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/1331-rank-transform-of-an-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
@@ -250,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0023-merge-k-sorted-lists) |
+| [0767-reorganize-string](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0767-reorganize-string) |
 | [2402-meeting-rooms-iii](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/2402-meeting-rooms-iii) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -298,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0767-reorganize-string](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0767-reorganize-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/1386-cinema-seat-allocation) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -404,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0049-group-anagrams) |
 | [0392-is-subsequence](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0392-is-subsequence) |
+| [0767-reorganize-string](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0767-reorganize-string) |
 | [0940-distinct-subsequences-ii](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1927-sum-game](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/1927-sum-game) |
