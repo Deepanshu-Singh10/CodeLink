@@ -16,8 +16,8 @@ class Solution {
     }
    boolean isValid(String curr) {
     int balancy = 0;
-    for (int i = 0; i < curr.length(); i++) {
-        if (curr.charAt(i) == '(') {
+    for (char ch :curr.toCharArray()) {
+        if (ch == '(') {
             balancy++;
         } else {
             balancy--;
