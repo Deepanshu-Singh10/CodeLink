@@ -14,17 +14,16 @@ class Solution {
         generate(curr+"(",n,ans);
         generate(curr+")",n,ans);
     }
-    boolean isValid(String curr){
-        int balancy = 0;
-        for(int i = 0;i<curr.length();i++){
-            if(curr.charAt(i)=='('){
-                balancy++;
-            }
-            else{
-                balancy--;
-            }
-        if(balancy < 0)return false;
+   boolean isValid(String curr) {
+    int balancy = 0;
+    for (int i = 0; i < curr.length(); i++) {
+        if (curr.charAt(i) == '(') {
+            balancy++;
+        } else {
+            balancy--;
         }
-        return balancy==0;
+        if (balancy < 0) return false; 
     }
+    return balancy == 0;
+}
 }
