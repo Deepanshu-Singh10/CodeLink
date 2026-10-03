@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0070-climbing-stairs) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0094-binary-tree-inorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0234-palindrome-linked-list) |
@@ -412,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0005-longest-palindromic-substring) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0049-group-anagrams) |
 | [0392-is-subsequence](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0392-is-subsequence) |
 | [0767-reorganize-string](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0767-reorganize-string) |
@@ -535,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0032-longest-valid-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
