@@ -292,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0090-subsets-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0301-remove-invalid-parentheses) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -342,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0102-binary-tree-level-order-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0200-number-of-islands) |
+| [0301-remove-invalid-parentheses](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0322-coin-change) |
 | [0994-rotting-oranges](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0994-rotting-oranges) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -420,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0049-group-anagrams) |
+| [0301-remove-invalid-parentheses](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0301-remove-invalid-parentheses) |
 | [0392-is-subsequence](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0392-is-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0678-valid-parenthesis-string) |
 | [0767-reorganize-string](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0767-reorganize-string) |
