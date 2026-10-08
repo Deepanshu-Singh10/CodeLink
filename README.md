@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0767-reorganize-string) |
 | [0904-fruit-into-baskets](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0930-binary-subarrays-with-sum) |
+| [1207-unique-number-of-occurrences](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/1207-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0994-rotting-oranges) |
 | [1140-stone-game-ii](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/1140-stone-game-ii) |
 | [1184-distance-between-bus-stops](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/1184-distance-between-bus-stops) |
+| [1207-unique-number-of-occurrences](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/1207-unique-number-of-occurrences) |
 | [1260-shift-2d-grid](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/1301-number-of-paths-with-max-score) |
