@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0057-insert-interval) |
 | [0078-subsets](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0090-subsets-ii) |
 | [0119-pascals-triangle-ii](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0119-pascals-triangle-ii) |
