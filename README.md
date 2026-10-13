@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0049-group-anagrams) |
 | [0142-linked-list-cycle-ii](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0146-lru-cache) |
+| [0554-brick-wall](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0554-brick-wall) |
 | [0560-subarray-sum-equals-k](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0560-subarray-sum-equals-k) |
 | [0767-reorganize-string](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0767-reorganize-string) |
 | [0904-fruit-into-baskets](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0904-fruit-into-baskets) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0228-summary-ranges) |
 | [0322-coin-change](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0322-coin-change) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0540-single-element-in-a-sorted-array) |
+| [0554-brick-wall](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0554-brick-wall) |
 | [0560-subarray-sum-equals-k](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0643-maximum-average-subarray-i) |
