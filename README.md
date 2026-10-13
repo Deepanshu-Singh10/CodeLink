@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/3620-network-recovery-pathways) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2402-meeting-rooms-iii](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/2402-meeting-rooms-iii) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/3731-find-missing-elements) |
 ## Heap (Priority Queue)
 |  |
@@ -337,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Binary Search
 |  |
 | ------- |
