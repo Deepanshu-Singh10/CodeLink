@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/1140-stone-game-ii) |
 | [1184-distance-between-bus-stops](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/1184-distance-between-bus-stops) |
 | [1207-unique-number-of-occurrences](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/1207-unique-number-of-occurrences) |
+| [1254-number-of-closed-islands](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/1301-number-of-paths-with-max-score) |
@@ -378,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0301-remove-invalid-parentheses](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0322-coin-change) |
 | [0994-rotting-oranges](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0994-rotting-oranges) |
+| [1254-number-of-closed-islands](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/1254-number-of-closed-islands) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -387,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0200-number-of-islands) |
+| [1254-number-of-closed-islands](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/1254-number-of-closed-islands) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -397,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0200-number-of-islands) |
 | [0835-image-overlap](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0835-image-overlap) |
 | [0994-rotting-oranges](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0994-rotting-oranges) |
+| [1254-number-of-closed-islands](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -430,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0101-symmetric-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/0200-number-of-islands) |
+| [1254-number-of-closed-islands](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/1254-number-of-closed-islands) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Deepanshu-Singh10/CodeLink/tree/master/2685-count-the-number-of-complete-components) |
